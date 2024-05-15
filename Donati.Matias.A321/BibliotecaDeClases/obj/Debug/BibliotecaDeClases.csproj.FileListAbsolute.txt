@@ -1,0 +1,6 @@
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

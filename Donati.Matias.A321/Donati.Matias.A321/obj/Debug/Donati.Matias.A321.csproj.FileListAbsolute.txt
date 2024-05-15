@@ -1,0 +1,10 @@
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\bin\Debug\Donati.Matias.A321.exe.config
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\bin\Debug\Donati.Matias.A321.exe
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\bin\Debug\Donati.Matias.A321.pdb
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\bin\Debug\BibliotecaDeClases.dll
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\obj\Debug\Donati.Matias.A321.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\obj\Debug\Donati.Matias.A321.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\obj\Debug\Donati.M.15C861ED.Up2Date
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\obj\Debug\Donati.Matias.A321.exe
+C:\Users\matod\Documents\UTN\Programacion II\PrimerParcial\Donati.Matias.A321\Donati.Matias.A321\obj\Debug\Donati.Matias.A321.pdb
