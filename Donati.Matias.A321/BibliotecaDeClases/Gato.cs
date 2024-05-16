@@ -33,7 +33,7 @@ namespace BibliotecaDeClases
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("==============Gato=========\n");
+            sb.Append("==============Gato======+++++++===\n");
             sb.Append($"Nombre: {Nombre}\n Raza{Raza}");
             return sb.ToString();
         }
