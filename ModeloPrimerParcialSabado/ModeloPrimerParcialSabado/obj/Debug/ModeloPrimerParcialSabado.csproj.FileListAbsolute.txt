@@ -1,0 +1,10 @@
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\bin\Debug\ModeloPrimerParcialSabado.exe.config
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\bin\Debug\ModeloPrimerParcialSabado.exe
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\bin\Debug\ModeloPrimerParcialSabado.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\bin\Debug\Entidades.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\bin\Debug\Entidades.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\obj\Debug\ModeloPrimerParcialSabado.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\obj\Debug\ModeloPrimerParcialSabado.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\obj\Debug\ModeloPr.8740423D.Up2Date
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\obj\Debug\ModeloPrimerParcialSabado.exe
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\ModeloPrimerParcialSabado\ModeloPrimerParcialSabado\obj\Debug\ModeloPrimerParcialSabado.pdb
