@@ -9,6 +9,10 @@ using System.Xml.Serialization;
 
 namespace Entidades
 {
+    [XmlInclude(typeof(Harina))]
+    [XmlInclude(typeof(Jugo))]
+    [XmlInclude(typeof(Gaseosa))]
+    [XmlInclude(typeof(Galletita))]
     public class Estante
     {
         protected sbyte _capacidad;
@@ -39,6 +43,30 @@ namespace Entidades
             set
             {
 
+            }
+        }
+
+        public List<Producto> Productos
+        {
+            get
+            {
+                return _productos;
+            }
+            set
+            {
+                _productos = value;
+            }
+        }
+
+        public sbyte Capacidad
+        {
+            get 
+            { 
+                return _capacidad;
+            } 
+            set 
+            { 
+                _capacidad = value; 
             }
         }
 
