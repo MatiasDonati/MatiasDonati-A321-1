@@ -11,7 +11,6 @@ namespace Entidades
         private string _apellido;
         private string _nombre;
 
-
         public Comerciante() { }
 
         public Comerciante(string apellido, string nombre)
@@ -28,7 +27,7 @@ namespace Entidades
             }
             set
             {
-
+                _apellido= value;
             }
         }
 
@@ -39,6 +38,7 @@ namespace Entidades
                 }
             set
             {
+                _nombre = value;
             }
         }
 

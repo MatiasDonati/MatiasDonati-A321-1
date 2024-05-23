@@ -1,0 +1,37 @@
+Capacidad maxima: 5
+Cantidad de Empleados: 0
+Caballo
+Domingo
+
+Nombre de comercio: Electrónica 80
+Precio de alquiler: 15200
+
+Cantidad de Empleados: 0
+Samudio
+Alberto
+
+Nombre de comercio: Granola S.A.
+Precio de alquiler: 23900
+
+Cantidad de Empleados: 0
+Molleja
+Joe
+
+Nombre de comercio: Matarife
+Precio de alquiler: 29095
+
+Cantidad de Empleados: 0
+Samudio
+Alberto
+
+Nombre de comercio: Matarife
+Precio de alquiler: 203000
+
+Cantidad de Empleados: 0
+Caballo
+Domingo
+
+Nombre de comercio: Matarife
+Precio de alquiler: 98000
+
+

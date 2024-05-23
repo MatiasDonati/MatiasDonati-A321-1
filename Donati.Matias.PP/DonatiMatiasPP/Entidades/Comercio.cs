@@ -29,9 +29,7 @@ namespace Entidades
         {
             _precioAlquiler = precioAlquiler;
             _nombre = nombreComercio;
-            //_comerciante.Nombre = nombre;
-           // _comerciante.Apellido = apellido;
-
+            _comerciante = new Comerciante(apellido, nombre);
         } 
         public Comercio(string nombre, Comerciante comerciante, float precioAlquiler) : this(precioAlquiler, nombre, comerciante.Nombre, comerciante.Apellido)
         {
@@ -88,7 +86,6 @@ namespace Entidades
                 _precioAlquiler = value;
             }
         }
-
 
         private string Mostrar()
         {
