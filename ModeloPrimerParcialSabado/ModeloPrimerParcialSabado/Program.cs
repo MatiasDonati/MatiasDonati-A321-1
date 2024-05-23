@@ -77,6 +77,7 @@ namespace ModeloPrimerParcialSabado
             Console.Clear();
 
             string rutaApplicationData = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+            string rutita = "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado\\";
             const string nombreArchivo = "estante.txt";
             string rutaArchivo = Path.Combine(rutaApplicationData, nombreArchivo);
 

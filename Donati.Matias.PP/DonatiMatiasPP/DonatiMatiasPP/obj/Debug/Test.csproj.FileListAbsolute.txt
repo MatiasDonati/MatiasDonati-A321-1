@@ -1,0 +1,10 @@
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\bin\Debug\DonatiMatiasPP.exe.config
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\bin\Debug\DonatiMatiasPP.exe
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\bin\Debug\DonatiMatiasPP.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\bin\Debug\Entidades.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\bin\Debug\Entidades.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\obj\Debug\Test.csproj.Up2Date
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\obj\Debug\DonatiMatiasPP.exe
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\DonatiMatiasPP\obj\Debug\DonatiMatiasPP.pdb

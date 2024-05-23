@@ -1,0 +1,10 @@
+Capacidad: 4
+Tipo: CuatroCeros
+De consumo: False
+El producto 102, de la marca Favorita tiene un precio de $37,5
+
+Jugo sabor: Pasable
+De consumo: True
+El producto 112, de la marca Naranju tiene un precio de $25
+
+

@@ -1,0 +1,6 @@
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.PP\DonatiMatiasPP\Entidades\obj\Debug\Entidades.pdb

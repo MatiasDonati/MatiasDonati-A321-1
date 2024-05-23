@@ -92,7 +92,7 @@ namespace Entidades
 
         public static void GuardarEstante(Estante estante, string rutaArchivo)
         {
-            if (File.Exists(rutaArchivo))
+            if (!File.Exists(rutaArchivo))
             {
                 using (FileStream fileStream = File.Create(rutaArchivo))
                 {
