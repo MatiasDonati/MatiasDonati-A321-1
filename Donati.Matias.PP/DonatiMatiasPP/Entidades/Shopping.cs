@@ -94,14 +94,27 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             
             sb.AppendLine($"Capacidad maxima: {shopping.CapacidadMaxima}");
+            sb.AppendLine($"Total por Importadores: ${shopping.PrecioDeImportadores}");
+            sb.AppendLine($"Total por Exportadores: ${shopping.PrecioDeExportadores}");
+            sb.AppendLine($"*****************************************");
+            sb.AppendLine($"Listado de Comercios");
+            sb.AppendLine($"*****************************************");
 
             foreach (Comercio comercio in shopping._comercios)
             {
-                sb.AppendLine((string)comercio);
+                if(comercio is Exportador exportador)
+                {
+                    sb.AppendLine(exportador.Mostrar());
+                }else if(comercio is Importador importador)
+                {
+                    sb.AppendLine(importador.Mostrar());
+
+                }
+                //   sb.AppendLine((string)comercio);
+
             }
 
             return sb.ToString();
-
         }
 
         public static implicit operator Shopping(int capacidad)

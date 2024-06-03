@@ -22,7 +22,7 @@ namespace Entidades
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine((string)this);
+            sb.Append((string)this);
             sb.AppendLine($"Pais de origen: {_paisOrigen}");
 
             return sb.ToString();

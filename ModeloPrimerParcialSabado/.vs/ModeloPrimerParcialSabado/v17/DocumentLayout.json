@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6864C702-F2CE-4F3A-83A3-5496F90EB1C1}|ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\modeloprimerparcialsabado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864C702-F2CE-4F3A-83A3-5496F90EB1C1}|ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\modeloprimerparcialsabado\\modeloprimerparcialsabado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6864C702-F2CE-4F3A-83A3-5496F90EB1C1}|ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado.csproj|solutionrelative:modeloprimerparcialsabado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\modeloprimerparcialsabado\\entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\harina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\galletita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\galletita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12609242-08DE-46B2-B77F-A4751277948C}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,78 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Producto.cs",
-              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Producto.cs",
-              "RelativeToolTip": "Entidades\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T20:03:18.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado\\Program.cs",
-              "RelativeDocumentMoniker": "ModeloPrimerParcialSabado\\Program.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado\\Program.cs",
-              "RelativeToolTip": "ModeloPrimerParcialSabado\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T20:01:44.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Estante.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Estante.cs",
-              "RelativeDocumentMoniker": "Entidades\\Estante.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Estante.cs",
-              "RelativeToolTip": "Entidades\\Estante.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAwwFsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:11:08.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Harina.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Harina.cs",
-              "RelativeDocumentMoniker": "Entidades\\Harina.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Harina.cs",
-              "RelativeToolTip": "Entidades\\Harina.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:46:34.803Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Gaseosa.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Gaseosa.cs",
-              "RelativeDocumentMoniker": "Entidades\\Gaseosa.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Gaseosa.cs",
-              "RelativeToolTip": "Entidades\\Gaseosa.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAUwEQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:33:05.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Galletita.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Galletita.cs",
               "RelativeDocumentMoniker": "Entidades\\Galletita.cs",
@@ -121,11 +54,81 @@
               "RelativeToolTip": "Entidades\\Galletita.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAUwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:12:03.82Z"
+              "WhenOpened": "2024-05-20T16:12:03.82Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Gaseosa.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Gaseosa.cs",
+              "RelativeDocumentMoniker": "Entidades\\Gaseosa.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Gaseosa.cs",
+              "RelativeToolTip": "Entidades\\Gaseosa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:33:05.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Entidades\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:03:18.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado\\Program.cs",
+              "RelativeDocumentMoniker": "ModeloPrimerParcialSabado\\Program.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\ModeloPrimerParcialSabado\\Program.cs*",
+              "RelativeToolTip": "ModeloPrimerParcialSabado\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:01:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estante.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Estante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Estante.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Estante.cs",
+              "RelativeToolTip": "Entidades\\Estante.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:11:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Harina.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Harina.cs",
+              "RelativeDocumentMoniker": "Entidades\\Harina.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Harina.cs",
+              "RelativeToolTip": "Entidades\\Harina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:46:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Jugo.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Jugo.cs",
               "RelativeDocumentMoniker": "Entidades\\Jugo.cs",
@@ -137,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\ModeloPrimerParcialSabado\\Entidades\\Enums.cs",
               "RelativeDocumentMoniker": "Entidades\\Enums.cs",

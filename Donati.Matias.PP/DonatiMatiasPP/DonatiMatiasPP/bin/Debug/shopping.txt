@@ -1,37 +1,37 @@
 Capacidad maxima: 5
-Cantidad de Empleados: 0
-Caballo
-Domingo
-
+Total por Importadores: $324900
+Total por Exportadores: $44295
+*****************************************
+Listado de Comercios
+*****************************************
+Cantidad de Empleados: 43
+Comerciante: Caballo Domingo
 Nombre de comercio: Electrónica 80
 Precio de alquiler: 15200
+Tipo: Tecnologico
 
-Cantidad de Empleados: 0
-Samudio
-Alberto
-
+Cantidad de Empleados: 69
+Comerciante: Samudio Alberto
 Nombre de comercio: Granola S.A.
 Precio de alquiler: 23900
+Pais de origen: UnionEuropea
 
-Cantidad de Empleados: 0
-Molleja
-Joe
-
+Cantidad de Empleados: 5
+Comerciante: Molleja Joe
 Nombre de comercio: Matarife
 Precio de alquiler: 29095
+Tipo: Rural
 
-Cantidad de Empleados: 0
-Samudio
-Alberto
-
+Cantidad de Empleados: 38
+Comerciante: Samudio Alberto
 Nombre de comercio: Matarife
 Precio de alquiler: 203000
+Pais de origen: Taiwan
 
-Cantidad de Empleados: 0
-Caballo
-Domingo
-
+Cantidad de Empleados: 67
+Comerciante: Caballo Domingo
 Nombre de comercio: Matarife
 Precio de alquiler: 98000
+Pais de origen: China
 
 

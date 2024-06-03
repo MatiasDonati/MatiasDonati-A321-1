@@ -1,0 +1,10 @@
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\bin\Debug\Test.exe.config
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\bin\Debug\Test.exe
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\bin\Debug\Test.pdb
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\bin\Debug\Entidades.dll
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\bin\Debug\Entidades.pdb
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\obj\Debug\Test.exe
+C:\Users\matod\Documents\UTN\Programacion II\PRIMER PARCIAL\Matias.Donati.PP\Test\obj\Debug\Test.pdb

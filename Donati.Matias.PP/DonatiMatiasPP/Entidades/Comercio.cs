@@ -25,15 +25,16 @@ namespace Entidades
 
         }
 
-        public Comercio (float precioAlquiler, string nombreComercio, string nombre, string apellido)
+        public Comercio(float precioAlquiler, string nombreComercio, string nombre, string apellido) : this(nombreComercio, new Comerciante(nombre, apellido), precioAlquiler)
         {
+            _comerciante.Nombre = nombre;
+            _comerciante.Apellido = apellido;
+        }
+        public Comercio(string nombre, Comerciante comerciante, float precioAlquiler) 
+        {
+            _nombre = nombre;
+            _comerciante = comerciante;
             _precioAlquiler = precioAlquiler;
-            _nombre = nombreComercio;
-            _comerciante = new Comerciante(apellido, nombre);
-        } 
-        public Comercio(string nombre, Comerciante comerciante, float precioAlquiler) : this(precioAlquiler, nombre, comerciante.Nombre, comerciante.Apellido)
-        {
-
         }
 
         public int CantidadDeEmpleados 
@@ -42,13 +43,16 @@ namespace Entidades
             {
                 if (_cantidadDeEmpleados == 0)
                 {
-                    _cantidadDeEmpleados = _generadorDeEmpleados.Next(1, 100);
+                    return _cantidadDeEmpleados = _generadorDeEmpleados.Next(1, 100);
                 }
-                return _cantidadDeEmpleados;
+                else
+                {
+                    return _cantidadDeEmpleados;
+                }
             }
             set
             {
-
+                _cantidadDeEmpleados = value;
             }
         }
 
@@ -90,10 +94,10 @@ namespace Entidades
         private string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Cantidad de Empleados: {_cantidadDeEmpleados}");
-            sb.AppendLine((string)_comerciante);
-            sb.AppendLine($"Nombre de comercio: {_nombre}");
-            sb.AppendLine($"Precio de alquiler: {_precioAlquiler}");
+            sb.AppendLine($"Cantidad de Empleados: {CantidadDeEmpleados}");
+            sb.Append((string)Comerciante);
+            sb.AppendLine($"Nombre de comercio: {Nombre}");
+            sb.AppendLine($"Precio de alquiler: {PrecioAlquiler}");
 
             return sb.ToString();
         }

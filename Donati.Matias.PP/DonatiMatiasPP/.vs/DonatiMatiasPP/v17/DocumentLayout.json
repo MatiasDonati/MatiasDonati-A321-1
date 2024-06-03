@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\Test.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.pp\\donatimatiaspp\\donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\Test.csproj|solutionrelative:donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\importador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\importador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\Test.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.pp\\donatimatiaspp\\donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\Test.csproj|solutionrelative:donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\DonatiMatiasPP.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A0D368-C78D-42D2-A034-4EC3A2B45AC0}|DonatiMatiasPP\\DonatiMatiasPP.csproj|solutionrelative:donatimatiaspp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|solutionrelative:entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0AC3562-58AB-438D-A446-56C1EA425368}|Entidades\\Entidades.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\entidades\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,41 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
-              "RelativeDocumentMoniker": "DonatiMatiasPP\\Program.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
-              "RelativeToolTip": "DonatiMatiasPP\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T01:04:13.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shopping.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Shopping.cs",
-              "RelativeDocumentMoniker": "Entidades\\Shopping.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Shopping.cs",
-              "RelativeToolTip": "Entidades\\Shopping.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAkwIkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T23:25:54.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Enums.cs",
               "RelativeDocumentMoniker": "Entidades\\Enums.cs",
@@ -84,46 +50,73 @@
               "RelativeToolTip": "Entidades\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T22:39:20.701Z"
+              "WhenOpened": "2024-05-22T22:39:20.701Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exportador.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Exportador.cs",
-              "RelativeDocumentMoniker": "Entidades\\Exportador.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Exportador.cs",
-              "RelativeToolTip": "Entidades\\Exportador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T22:37:53.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Importador.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Importador.cs",
-              "RelativeDocumentMoniker": "Entidades\\Importador.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Importador.cs",
-              "RelativeToolTip": "Entidades\\Importador.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswCAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T23:15:12.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Comercio.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Comercio.cs",
               "RelativeDocumentMoniker": "Entidades\\Comercio.cs",
               "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Comercio.cs",
               "RelativeToolTip": "Entidades\\Comercio.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAywGYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T21:54:42.416Z",
+              "WhenOpened": "2024-05-22T21:54:42.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
+              "RelativeDocumentMoniker": "DonatiMatiasPP\\Program.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
+              "RelativeToolTip": "DonatiMatiasPP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:04:13.548Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shopping.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Shopping.cs",
+              "RelativeDocumentMoniker": "Entidades\\Shopping.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Shopping.cs",
+              "RelativeToolTip": "Entidades\\Shopping.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:25:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exportador.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Exportador.cs",
+              "RelativeDocumentMoniker": "Entidades\\Exportador.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Exportador.cs",
+              "RelativeToolTip": "Entidades\\Exportador.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:37:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Importador.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Importador.cs",
+              "RelativeDocumentMoniker": "Entidades\\Importador.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Importador.cs",
+              "RelativeToolTip": "Entidades\\Importador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:15:12.089Z"
             },
             {
               "$type": "Document",
@@ -133,22 +126,9 @@
               "RelativeDocumentMoniker": "Entidades\\Comerciante.cs",
               "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\Entidades\\Comerciante.cs",
               "RelativeToolTip": "Entidades\\Comerciante.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAAhAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T21:44:27.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
-              "RelativeDocumentMoniker": "DonatiMatiasPP\\Program.cs",
-              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.PP\\DonatiMatiasPP\\DonatiMatiasPP\\Program.cs",
-              "RelativeToolTip": "DonatiMatiasPP\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T21:43:44.677Z"
+              "WhenOpened": "2024-05-22T21:44:27.945Z"
             }
           ]
         }

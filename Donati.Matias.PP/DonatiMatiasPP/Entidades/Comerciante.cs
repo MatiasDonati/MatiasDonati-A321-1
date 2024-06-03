@@ -27,7 +27,6 @@ namespace Entidades
             }
             set
             {
-                _apellido= value;
             }
         }
 
@@ -38,7 +37,7 @@ namespace Entidades
                 }
             set
             {
-                _nombre = value;
+
             }
         }
 
@@ -57,9 +56,7 @@ namespace Entidades
         public static implicit operator string(Comerciante c)
         {
            StringBuilder sb = new StringBuilder();
-            sb.AppendLine(c.Nombre);
-            sb.AppendLine(c.Apellido);
-
+            sb.AppendLine($"Comerciante: {c.Nombre} {c.Apellido}");
             return sb.ToString();
         }
 
