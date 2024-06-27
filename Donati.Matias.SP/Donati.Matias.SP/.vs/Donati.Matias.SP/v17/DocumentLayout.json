@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.sp\\donati.matias.sp\\formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.sp\\donati.matias.sp\\entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|solutionrelative:entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.sp\\donati.matias.sp\\vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|solutionrelative:vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.sp\\donati.matias.sp\\archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +34,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patente.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\Entidades\\Patente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Patente.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\Entidades\\Patente.cs",
+              "RelativeToolTip": "Entidades\\Patente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:22:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmPricipal.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\Formulario\\FrmPricipal.cs",
+              "RelativeDocumentMoniker": "Formulario\\FrmPricipal.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\Formulario\\FrmPricipal.cs",
+              "RelativeToolTip": "Formulario\\FrmPricipal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:17:33.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VistaPatente.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\VistaPatente\\VistaPatente.cs",
+              "RelativeDocumentMoniker": "VistaPatente\\VistaPatente.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\VistaPatente\\VistaPatente.cs",
+              "RelativeToolTip": "VistaPatente\\VistaPatente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:17:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Sql.cs",
               "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.SP\\Donati.Matias.SP\\Archivo\\Sql.cs",
               "RelativeDocumentMoniker": "Archivo\\Sql.cs",

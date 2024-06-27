@@ -44,7 +44,9 @@ namespace Formulario
         /// <param name="e">Los datos del evento.</param>
         private void FrmPricipal_FormClosing(object sender, FormClosingEventArgs e)
         {
-            
+            // Detener la simulación y liberar recursos al cerrar el formulario
+            FinalizarSimulacion();
+
         }
 
         /// <summary>
