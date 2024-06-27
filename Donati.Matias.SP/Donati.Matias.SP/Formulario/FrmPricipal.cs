@@ -74,7 +74,7 @@ namespace Formulario
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("¡Error al guardar en la base de datos!" + e);
+                    MessageBox.Show("¡Error al guardar en la base de datos!" + ex);
                 }
 
                 // Guardar en archivo XML
