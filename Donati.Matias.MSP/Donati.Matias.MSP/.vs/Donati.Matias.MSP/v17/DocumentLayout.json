@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\MSP.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\MSP.csproj|solutionrelative:sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F416DE4-FCDA-4E31-80C1-03D603FA80E0}|TestUnitario\\TestUnitario.csproj|c:\\users\\matod\\documents\\utn\\programacion ii\\matiasdonati-a321-1\\donati.matias.msp\\donati.matias.msp\\testunitario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F416DE4-FCDA-4E31-80C1-03D603FA80E0}|TestUnitario\\TestUnitario.csproj|solutionrelative:testunitario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\cajonllenoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\cajonllenoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\durazno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\durazno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\ideserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\ideserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\iserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\iserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\archivos\\manejadoreventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999BEB7-B79E-4967-B9BC-2D9DC68E8749}|Archivos\\Archivos.csproj|solutionrelative:archivos\\manejadoreventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModeloSegundoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\SP\\ModeloSegundoParcial.cs",
+              "RelativeDocumentMoniker": "SP\\ModeloSegundoParcial.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\SP\\ModeloSegundoParcial.cs",
+              "RelativeToolTip": "SP\\ModeloSegundoParcial.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAkwN4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:52:41.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\TestUnitario\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestUnitario\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\TestUnitario\\UnitTest1.cs",
+              "RelativeToolTip": "TestUnitario\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:42:18.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISerializar.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\ISerializar.cs",
+              "RelativeDocumentMoniker": "Archivos\\ISerializar.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\ISerializar.cs",
+              "RelativeToolTip": "Archivos\\ISerializar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:10:03.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDeserializar.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\IDeserializar.cs",
+              "RelativeDocumentMoniker": "Archivos\\IDeserializar.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\IDeserializar.cs",
+              "RelativeToolTip": "Archivos\\IDeserializar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:06:12.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fruta.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Fruta.cs",
+              "RelativeDocumentMoniker": "Archivos\\Fruta.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Fruta.cs",
+              "RelativeToolTip": "Archivos\\Fruta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:53:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManejadorEventos.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\ManejadorEventos.cs",
+              "RelativeDocumentMoniker": "Archivos\\ManejadorEventos.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\ManejadorEventos.cs",
+              "RelativeToolTip": "Archivos\\ManejadorEventos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:32:26.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CajonLlenoException.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\CajonLlenoException.cs",
+              "RelativeDocumentMoniker": "Archivos\\CajonLlenoException.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\CajonLlenoException.cs",
+              "RelativeToolTip": "Archivos\\CajonLlenoException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:16:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cajon.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Cajon.cs",
+              "RelativeDocumentMoniker": "Archivos\\Cajon.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Cajon.cs",
+              "RelativeToolTip": "Archivos\\Cajon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:34:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manzana.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Manzana.cs",
+              "RelativeDocumentMoniker": "Archivos\\Manzana.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Manzana.cs",
+              "RelativeToolTip": "Archivos\\Manzana.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:11:35.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banana.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Banana.cs",
+              "RelativeDocumentMoniker": "Archivos\\Banana.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Banana.cs",
+              "RelativeToolTip": "Archivos\\Banana.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:08:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Durazno.cs",
+              "DocumentMoniker": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Durazno.cs",
+              "RelativeDocumentMoniker": "Archivos\\Durazno.cs",
+              "ToolTip": "C:\\Users\\matod\\Documents\\UTN\\Programacion II\\MatiasDonati-A321-1\\Donati.Matias.MSP\\Donati.Matias.MSP\\Archivos\\Durazno.cs",
+              "RelativeToolTip": "Archivos\\Durazno.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:13:58.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

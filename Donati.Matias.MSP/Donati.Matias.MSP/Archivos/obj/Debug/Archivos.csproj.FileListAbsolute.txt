@@ -1,0 +1,12 @@
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\bin\Debug\Archivos.dll
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\bin\Debug\Archivos.pdb
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\obj\Debug\Archivos.dll
+C:\Users\asoko\OneDrive\Escritorio\Parciales Programacion\LeonSokolowski_ProgramacionYLaboratorioII_A321\Sokolowski.Leon.MSP\Archivos\obj\Debug\Archivos.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\bin\Debug\Archivos.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\bin\Debug\Archivos.pdb
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\obj\Debug\Archivos.dll
+C:\Users\matod\Documents\UTN\Programacion II\MatiasDonati-A321-1\Donati.Matias.MSP\Donati.Matias.MSP\Archivos\obj\Debug\Archivos.pdb
